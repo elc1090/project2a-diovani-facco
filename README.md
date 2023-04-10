@@ -1,4 +1,33 @@
-# github-api-tutorial
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftimwheelercom%2Fgithub-api-tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+# Projeto2a: GitHub API e DOM Manipulation
 
-👨‍💻⚡️🛠 A Quick Tutorial on Building a Simple Web App w/ the GitHub API
+![Screenshot do projeto](assets/PRINT.png "Screenshot do projeto").
+
+Acesso: Preencha aqui a URL para acesso ao site publicado
+
+
+#### Desenvolvedor(a)
+Diovani Facco
+
+#### Tecnologias
+
+- GitHub API
+- HTML
+- JavaScript
+
+#### Ambiente de desenvolvimento
+
+- VS Code
+- Chrome
+
+#### Créditos
+
+Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
+- https://docs.github.com/pt/rest?apiVersion=2022-11-28
+- https://codesnippet.io/github-api-tutorial/
+
+#### Bastidores
+
+De início foi bem complicado entender o que a API estava fazendo, e como ela passava as informações para o site. Porém revisando algumas vezes o código e os 
+tutoriais, o código começou a sair. Peguei o código disponibilizado e fui fazendo alterações conforme as especificações.
+---
+Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
