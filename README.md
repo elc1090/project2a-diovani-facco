@@ -2,7 +2,7 @@
 
 ![Screenshot do projeto](assets/PRINT.png "Screenshot do projeto").
 
-Acesso: Preencha aqui a URL para acesso ao site publicado
+Acesso: https://elc1090.github.io/project2a-diovani-facco/
 
 
 #### Desenvolvedor(a)
